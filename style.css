@@ -85,6 +85,7 @@ section {
     font-size: 14px;
     line-height: 15.56px;
     color: #fff;
+    z-index: 2;
 }
 
 .nav-menu a {
