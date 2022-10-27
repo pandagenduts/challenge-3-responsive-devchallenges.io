@@ -5,4 +5,4 @@ As always, i tried my best to make it super responsive!
 
 24" and above, HD monitor (inc. laptop), tablet (portrait & lands), mobile (portrait & lands)
 
-demo URL https://majestic-zabaione-e543b2.netlify.app/
+demo URL https://pandagenduts-interior-consultant.netlify.app/
